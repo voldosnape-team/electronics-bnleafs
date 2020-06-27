@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-Hi @bananaleafs /electronics community
+Hi @bananaleafs/electronics community
