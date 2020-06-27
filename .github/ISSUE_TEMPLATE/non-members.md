@@ -2,9 +2,9 @@
 name: Non members
 about: Ask your doubts here
 title: ''
-labels: ''
+labels: good first issue
 assignees: ''
 
 ---
 
-Hi @bananaleafs/electronics community
+Hi community
